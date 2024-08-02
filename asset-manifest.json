@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/%7Brepository-name%7D/static/css/main.9d042edd.css",
+    "main.js": "/%7Brepository-name%7D/static/js/main.cfad0e91.js",
+    "static/js/453.4f72af39.chunk.js": "/%7Brepository-name%7D/static/js/453.4f72af39.chunk.js",
+    "static/media/friday.jpg": "/%7Brepository-name%7D/static/media/friday.620c0fb8142c09b3d4a2.jpg",
+    "index.html": "/%7Brepository-name%7D/index.html",
+    "main.9d042edd.css.map": "/%7Brepository-name%7D/static/css/main.9d042edd.css.map",
+    "main.cfad0e91.js.map": "/%7Brepository-name%7D/static/js/main.cfad0e91.js.map",
+    "453.4f72af39.chunk.js.map": "/%7Brepository-name%7D/static/js/453.4f72af39.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d042edd.css",
+    "static/js/main.cfad0e91.js"
+  ]
+}
