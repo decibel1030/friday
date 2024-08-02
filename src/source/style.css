@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    padding: 0; 
+    box-sizing: border-box;
+    background-color: rgb(16, 17, 16);
+}
+.App{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.App img{
+    width: 80%;
+}
+.App h1{
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
